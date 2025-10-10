@@ -3,6 +3,7 @@
 # MODULE - 07
 
 Name: Dhivyalakshmi K P
+
 Regno: 212224060066
 
 EXP NO:1 C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
@@ -23,7 +24,7 @@ Else
  
 Program:
 
-
+```
 #include<stdio.h>
 struct person{
     int x;
@@ -48,7 +49,7 @@ int main()
        printf("eligibility:no");
    }
 }
-
+```
 
 
 Output:
