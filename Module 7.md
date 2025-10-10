@@ -1,11 +1,10 @@
 # Advanced-C-Lab-Manual
 
 # MODULE - 07
-
+```
 Name: Dhivyalakshmi K P
-
 Regno: 212224060066
-
+```
 # EXP NO:1 C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
 
 # Aim:
