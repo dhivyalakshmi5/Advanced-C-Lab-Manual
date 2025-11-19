@@ -46,7 +46,7 @@ printf("Age:%d\nName:%svaccine:%d\neligibility:yes",e.age,e.n,e.age);
 
 # Output:
 
- 
+![WhatsApp Image 2025-11-19 at 16 22 14_7c36d84e](https://github.com/user-attachments/assets/6f342e01-71be-4bc4-ba9a-72f3fe63b867)
 
 # Result:
 
