@@ -24,36 +24,29 @@ Else
 # Program:
 
 ```
-#include<stdio.h>
-struct person{
-    int x;
-    char y[20];
+#include<stdio.h> struct eligib
+{
+int age; char n[4];
 };
 int main()
 {
-   struct person p;
-   printf("Enter age: ");
-   scanf("%d",&p.x);
-   printf("Enter Name: ");
-   scanf("%s",p.y);
-   printf("Age:%d\n",p.x);
-   printf("Name:%s\n",p.y);
-   
-   if(p.x>6)
-   {
-       printf("eligibility:yes");
-   }
-   else
-   {
-       printf("eligibility:no");
-   }
+struct eligib e; scanf("%d%s",&e.age,e.n);
+if(e.age<=6)
+{
+printf("Age:%d\nName:%svaccine:%d\neligibility:no",e.age,e.n,e.age);
+}
+ 
+else
+{
+}
+printf("Age:%d\nName:%svaccine:%d\neligibility:yes",e.age,e.n,e.age);
+
 }
 ```
 
-
 # Output:
 
-![image](https://github.com/user-attachments/assets/e171cb54-885c-4994-8b16-11e4a6731983)
+ 
 
 # Result:
 
